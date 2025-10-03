@@ -8,7 +8,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFzc21sZTN0Njh6eW1lYWo3bDF3Z2s5eXUybzdjZ3Q5eHRmcGw4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-
+<br/>
+<br/>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanmahendru77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Mahendru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TheAryan77) 
 
