@@ -12,9 +12,10 @@
 - 🌱 I’m currently learning **AI, ML & DL Projects**  
 - 💬 Ask me about **any framework, language, or cohort**  
 - ⚡ Fun fact: *"The skill you name it, I have it—or I’m going to!"*  
-
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif">
-
+<p align="center">
+  <img alt="Coding" width="400" src="https://media2.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif"/>
+  <img alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+</p>
 ---
 
 ## 🌐 Connect with Me  
