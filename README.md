@@ -20,6 +20,10 @@
 </p>
 ---
 
+![Snake animation](https://github.com/TheAryan77/snk/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌐 Connect with Me  
 <p align="left">
 <a href="https://instagram.com/aryanmahendru77" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
@@ -69,7 +73,6 @@
 <img src="https://visitcount.itsvg.in/api?id=TheAryan77&icon=2&color=6" alt="Profile Visits"/>  
 </p>  
 
-![Snake animation](https://github.com/TheAryan77/snk/blob/output/github-contribution-grid-snake.svg)
 
 
 
