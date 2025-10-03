@@ -69,5 +69,7 @@
 <img src="https://visitcount.itsvg.in/api?id=TheAryan77&icon=2&color=6" alt="Profile Visits"/>  
 </p>  
 
+![snake gif](https://github.com/TheAryan77/TheAryan77/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
-✨ *Proudly created with GPRM (https://gprm.itsvg.in)* ✨
