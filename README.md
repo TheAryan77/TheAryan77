@@ -18,7 +18,7 @@
   <img alt="Coding" width="400" src="https://media2.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif"/>
   <img alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 </p>
----
+
 
 ![Snake animation](https://github.com/TheAryan77/snk/blob/output/github-contribution-grid-snake.svg)
 
